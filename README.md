@@ -41,7 +41,7 @@ optional arguments:
 </code></pre>
 ### Example
 <pre><code>
-sure_species refseq.tsv
+./sure_species refseq.tsv
 #Species name   Protein number
 Streptomyces    3961
 Streptomyces albidoflavus       1876
