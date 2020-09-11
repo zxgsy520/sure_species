@@ -1,4 +1,4 @@
-＃ sure_species
+# sure_species
 ## Introduction
 Count the species information annotated in the genome annotation results.
 
