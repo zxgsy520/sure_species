@@ -1,7 +1,9 @@
 # sure_species
 ## Introduction
 Count the species information annotated in the genome annotation results.
-
+## Fossil Calibration Database
+[https://fossilcalibrations.org/Browse.php](https://fossilcalibrations.org/Browse.php)  
+[http://www.timetree.org/](http://www.timetree.org/)  
 ## Installation
 <pre><code>
 wget -c https://github.com/zxgsy520/fullampl/sure_species/v1.1.0.tar.gz
